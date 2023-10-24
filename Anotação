@@ -35,11 +35,13 @@ RGB 0, 1, 2, 3, . . . 255
 
 255 = máximo
 
-
-
 No css para representa a cor em RGB
 
-rgb(,,)
+rgb(red,green,blue)
+
+rgb(255,255,255) = Branco
+
+rgb(0,0,255) = Azul
 
 Observação: Cores do espectro eletromagnético
 
