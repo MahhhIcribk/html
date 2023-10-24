@@ -6,13 +6,16 @@ Binário 01
 
 Numérico 0123456789
 
-Hexadecimal 0123456789ABCDEF = dicionáio que usa para marcar a cores
+Hexadecimal 0123456789ABCDEF = dicionáio que usa para marcar a cores; representa muiot mais coisa que apenas o alfabeto numérico
 
 Enxergamos três espectros de cor 
 
 RGB = Red Green Blue
 
 # _ _ _ _ _ _
+  RED GRE BLU
+
+Representação em Hexadecimal
 
 0 = ausência de cor
 
@@ -33,3 +36,5 @@ Em ordem crescente de frequências, as cores do espectro visível são:
   ciano: /Hexadecimal = #00FFFF /RGB = (0,255,255)
   azul: /Hexadecimal = #0000FF /RGB = (0,0,255)
   violeta: /Hexadecimal = #EE82EE /RGB = (238,130,238)
+
+site: https://celke.com.br/artigo/tabela-de-cores-html-nome-hexadecimal-rgb
