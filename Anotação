@@ -1,10 +1,14 @@
-Alfabeto abcdef.....
+Alfabeto comunicação abcdef.....
+
+Alfabeto para computação
 
 Binário 01
 
 Numérico 0123456789
 
-Hexadecimal 0123456789ABCDEF
+Hexadecimal 0123456789ABCDEF = dicionáio que usa para marcar a cores
+
+Enxergamos três espectros de cor 
 
 RGB = Red Green Blue
 
@@ -18,3 +22,14 @@ F = máximo de cor
 
 #FFFFFF = Branco
 
+Observação: Cores do espectro eletromagnético
+
+Apenas uma pequena fração do espectro eletromagnético pode ser percebida pelo olho humano.
+Em ordem crescente de frequências, as cores do espectro visível são:
+  vermelho: /binario = 10011100; /Hexadecimal = #FF0000; /RGB = 
+  laranja: /binario = ; /Hexadecimal = #FFA500; /RGB = (255,165,0)
+  amarelo: /binario = ; /Hexadecimal = #FFFF00; /RGB = (255,255,0)
+  verde: /binario = ; /Hexadecimal = #; /RGB = 
+  ciano: /binario = ; /Hexadecimal = #; /RGB = 
+  azul: /binario = ; /Hexadecimal = #; /RGB = 
+  violeta: /binario = ; /Hexadecimal = #; /RGB =  
