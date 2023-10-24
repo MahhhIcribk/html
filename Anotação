@@ -26,10 +26,10 @@ Observação: Cores do espectro eletromagnético
 
 Apenas uma pequena fração do espectro eletromagnético pode ser percebida pelo olho humano.
 Em ordem crescente de frequências, as cores do espectro visível são:
-  vermelho: /binario = 10011100; /Hexadecimal = #FF0000; /RGB = 
-  laranja: /binario = ; /Hexadecimal = #FFA500; /RGB = (255,165,0);
-  amarelo: /binario = ; /Hexadecimal = #FFFF00; /RGB = (255,255,0);
-  verde: /binario = ; /Hexadecimal = #; /RGB = 
-  ciano: /binario = ; /Hexadecimal = #; /RGB = 
-  azul: /binario = ; /Hexadecimal = #; /RGB = 
-  violeta: /binario = ; /Hexadecimal = #; /RGB =  
+  vermelho: /Hexadecimal = #FF0000 /RGB = (255,0,0)
+  laranja: /Hexadecimal = #FFA500 /RGB = (255,165,0)
+  amarelo: /Hexadecimal = #FFFF00 /RGB = (255,255,0)
+  verde: /Hexadecimal = #00FF00 /RGB = (0,255,0)
+  ciano: /Hexadecimal = #00FFFF /RGB = (0,255,255)
+  azul: /Hexadecimal = #0000FF /RGB = (0,0,255)
+  violeta: /Hexadecimal = #EE82EE /RGB = (238,130,238)
