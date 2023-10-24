@@ -25,6 +25,22 @@ F = máximo de cor
 
 #FFFFFF = Branco
 
+#CCCCCC = é quase um branco
+
+#FF0000 = vermelho
+
+RGB 0, 1, 2, 3, . . . 255
+
+0 = ausência
+
+255 = máximo
+
+
+
+No css para representa a cor em RGB
+
+rgb(,,)
+
 Observação: Cores do espectro eletromagnético
 
 Apenas uma pequena fração do espectro eletromagnético pode ser percebida pelo olho humano.
