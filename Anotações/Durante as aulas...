@@ -71,3 +71,26 @@ Espaçamento externo lateral chamado de margin, que é o espaçamento externo, o
 
 Se eu quiser colocar uma margem para todos os lados igual, coloco só o nome dela, só a declaração margin. E na hora que renderizo, ele vai criar uma moldura em volta do meu elemento.
 
+EXTRA: TIME DE FRONT-END
+
+As interfaces do front end estão cada vez com mais responsabilidade, são cada vez mais robustas, tem cada vez mais funções. E por isso o time foi crescendo muito.
+
+É importante destacar que um time de front end, ou seja, um time para fazer uma interface não é composto só pelo desenvolvedor front end.
+
+Geralmente, temos alguém responsável pela usabilidade do site.
+  UX - User Experience
+
+A usabilidade é responsável por responder como vai entregar aquelas informações, a forma.
+
+Temos ainda o time da interface do usuário. O time do design, que vai pegar a forma como aquilo vai ser feito e vai dar o visual para aquilo.
+
+Por último, temos o codificador, aquele desenvolvedor front end que vai pegar o design, a forma como o site foi apresentado com aquele visual e vai transformar em código para web, para um aplicativo ou para algum sistema.
+
+Essas responsabilidades muitas vezes estão acumuladas em algumas pessoas, mas é importante pontuar cada uma delas. 
+  UX + UI + Desenvolvedor
+
+No nosso site, no nosso projeto, reparem que não paramos para discutir sobre qual cor iríamos escolher, ou qual imagem escolher. No nosso projeto, o designer já fez isso para nós.
+
+Geralmente é assim que um desenvolvedor front end vai trabalhar. Ele vai receber os inputs e vai extrair daquilo o melhor código possível.
+
+Espero que vocês consigam trabalhar assim e que consigam entregar o melhor código possível.
