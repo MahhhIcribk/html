@@ -1,5 +1,5 @@
 body {
-	background: #CCCCCC
+	
 }
 
 #banner {
@@ -7,7 +7,7 @@ body {
 }
 
 .principal {
-	
+	background: #CCCCCC
 }
 
 h1 {
@@ -34,3 +34,6 @@ em strong {
 	background: #FFFFFF;
 }
 
+h2 {
+	text-align: center;
+}
