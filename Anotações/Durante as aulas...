@@ -94,3 +94,6 @@ No nosso site, no nosso projeto, reparem que não paramos para discutir sobre qu
 Geralmente é assim que um desenvolvedor front end vai trabalhar. Ele vai receber os inputs e vai extrair daquilo o melhor código possível.
 
 Espero que vocês consigam trabalhar assim e que consigam entregar o melhor código possível.
+
+
+ O identificador id="" serve para itens únicos e a classe class="" serve para itens que serão repetidos.
