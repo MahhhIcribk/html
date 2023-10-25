@@ -63,18 +63,10 @@ Mexendo na borda, conseguimos entender a largura e a altura do elemento.
 
 A borda vai se ajeitando. Ela é a finalização do elemento.
 
-O que acontece então se colocamos um espaçamento interno? Ele é chamado de padding, e é configurado de várias formas. Ou ele funciona em todos os lados, ou só para cima, ou só para as laterais, ou só para baixo.
+Espaçamento interno é chamado de padding, e é configurado de várias formas. Ou ele funciona em todos os lados, ou só para cima, ou só para as laterais, ou só para baixo. É para fazer seu elemento se comportar melhor no espaço que ele tem. Criar um respiro maior da borda para fora.
 
-Vamos imaginar um espaçamento interno para todos os lados, para ficar fácil de entender. Se eu colocar um espaçamento de 20px internamente, ele aumenta o meu elemento, criando um respiro entre a borda e o conteúdo. Ou seja, ele criou uma margem interna no elemento.
+Se eu colocar um espaçamento interno, ele vai criar um quadro dentro, dando um respiro para todos os lados. Se eu coloco, por exemplo, um espaçamento só para cima ele cria esse respiro só na parte de cima. 
 
-Vou clicar do lado para desmarcar o padding, ou seja, ele vai cancelar essa criação, para ficar clara a diferença.
+Espaçamento externo lateral chamado de margin, que é o espaçamento externo, ou para a direita ou para a esquerda.
 
-Se eu colocar um espaçamento interno, ele vai criar um quadro dentro, dando um respiro para todos os lados. Se eu coloco, por exemplo, um espaçamento só para cima de 20px, ele cria esse respiro só na parte de cima. Esse é o espaçamento interno. É para fazer seu elemento se comportar melhor no espaço que ele tem.
-
-O espaçamento interno serve, por exemplo, para eu criar um respiro maior da borda para fora. Então, se eu quiser que a borda não esteja colada na lateral, preciso de um espaçamento externo lateral. Para fazer isso, adiciono a margin, que é o espaçamento externo, ou para a direita ou para a esquerda.
-
-Vamos fazer só na esquerda uma margem de 40px. Nossa borda descolou da lateral, criamos um espaço para fora do elemento, entre o elemento e a margem do navegador.
-
-Nosso elemento já tem um espaço para cima e para baixo, que foram adicionados pelo navegador inicialmente. Se eu quiser colocar uma margem para todos os lados igual, coloco só o nome dela, só a declaração margin. E na hora que renderizo, ele vai criar uma moldura em volta do meu elemento.
-
-Com isso, conseguimos mexer na configuração e na apresentação de todos os itens. Conseguimos mexer na largura, na altura, na borda, no espaçamento interno e no espaçamento externo.
+Se eu quiser colocar uma margem para todos os lados igual, coloco só o nome dela, só a declaração margin. E na hora que renderizo, ele vai criar uma moldura em volta do meu elemento.
