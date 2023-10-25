@@ -21,3 +21,60 @@ Neste exemplo de código, a imagem não será exibida, pois não existe nenhum a
 Imagem no mesmo nível do arquivo
 
 Neste treinamento, recomendamos que as imagens do projeto estejam no mesmo nível do arquivo index.html, ou seja, as imagens do projeto devem estar na mesma pasta, como ilustra a imagem abaixo.
+
+
+Voltando ao navegador, é importante falarmos sobre uma ferramenta que todos os navegadores modernos entregam para os desenvolvedores. É chamada de developer tools, ferramentas para o desenvolvedor.
+Acessa clicando no F12 ... basicamente o modo inspecionar
+Se vocês apertarem F12, irão reparar que a ferramenta do desenvolvedor está à direita. Ela tem, entre outras coisas, um layout mobile para sua página, te deixa mexer no console, saber que tipo de arquivos estão sendo transacionados. 
+
+Como isso funciona? Digamos, por exemplo, que eu quero ver meu h1. Se eu clicar sobre ele, vou ver todo o estilo que já foi criado e esse estilo vem do nosso arquivo CSS, verei também a marcação que ele tem na minha página, ou seja, a largura, altura, qual o espaçamento que ele tem.
+
+Essa ferramenta é fundamental para entendermos e trabalharmos com desenvolvimento. Com certeza você vai usar muito.
+
+Falando sobre dimensões no CSS, temos quatro parâmetros muito importantes:
+  A largura de um elemento
+  A altura do elemento
+  Os espaçamentos que podem ser: Espaçamento interno e espaçamento externo.
+
+Vou usar nosso h1 como exemplo e vou mexer no developer tools. Reparem que se eu clicar logo depois de text align center ele vai criar uma nova linha para eu poder inserir uma modificação.
+
+Só por curiosidade, vamos colocar a cor azul, para vocês verem funcionando.
+
+Imediatamente ele vai alterar a exibição do elemento, deixando o título do h1 em azul.
+
+Posso também, recarregar a página, e quando recarrego ele some com aquele estilo criado. É só uma ferramenta para o desenvolvedor, na máquina dele, enquanto ele está fazendo aquilo funcionar.
+
+No meu h1, vamos falar algumas coisas sobre a dimensão dos elementos.
+
+A dimensão de altura é muito fácil de identificar. 
+  Eu insiro com height e coloco em pixels, por exemplo, 100 pixels, ou 100px. Esse elemento passou a ter um espaço muito maior.
+
+Colocando o mouse em cima, consigo ver no espaço sombreado de azul a altura do elemento.
+
+Vamos agora na nossa imagem, onde já temos o identificador do banner, mexer na largura.
+
+A largura wight de um elemento geralmente é adicionada em pixels, ou podemos também colocar a largura em percentual. Se eu quero que ocupe a página inteira, vou colocar 100%.
+
+Se eu aumento a largura e a altura, preciso fazer um cálculo muito correto para essa imagem não ficar distorcida.
+
+Sobre o espaçamento
+
+Mexendo na borda, conseguimos entender a largura e a altura do elemento.
+
+A borda vai se ajeitando. Ela é a finalização do elemento.
+
+O que acontece então se colocamos um espaçamento interno? Ele é chamado de padding, e é configurado de várias formas. Ou ele funciona em todos os lados, ou só para cima, ou só para as laterais, ou só para baixo.
+
+Vamos imaginar um espaçamento interno para todos os lados, para ficar fácil de entender. Se eu colocar um espaçamento de 20px internamente, ele aumenta o meu elemento, criando um respiro entre a borda e o conteúdo. Ou seja, ele criou uma margem interna no elemento.
+
+Vou clicar do lado para desmarcar o padding, ou seja, ele vai cancelar essa criação, para ficar clara a diferença.
+
+Se eu colocar um espaçamento interno, ele vai criar um quadro dentro, dando um respiro para todos os lados. Se eu coloco, por exemplo, um espaçamento só para cima de 20px, ele cria esse respiro só na parte de cima. Esse é o espaçamento interno. É para fazer seu elemento se comportar melhor no espaço que ele tem.
+
+O espaçamento interno serve, por exemplo, para eu criar um respiro maior da borda para fora. Então, se eu quiser que a borda não esteja colada na lateral, preciso de um espaçamento externo lateral. Para fazer isso, adiciono a margin, que é o espaçamento externo, ou para a direita ou para a esquerda.
+
+Vamos fazer só na esquerda uma margem de 40px. Nossa borda descolou da lateral, criamos um espaço para fora do elemento, entre o elemento e a margem do navegador.
+
+Nosso elemento já tem um espaço para cima e para baixo, que foram adicionados pelo navegador inicialmente. Se eu quiser colocar uma margem para todos os lados igual, coloco só o nome dela, só a declaração margin. E na hora que renderizo, ele vai criar uma moldura em volta do meu elemento.
+
+Com isso, conseguimos mexer na configuração e na apresentação de todos os itens. Conseguimos mexer na largura, na altura, na borda, no espaçamento interno e no espaçamento externo.
