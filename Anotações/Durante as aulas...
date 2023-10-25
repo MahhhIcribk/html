@@ -70,3 +70,4 @@ Se eu colocar um espaçamento interno, ele vai criar um quadro dentro, dando um 
 Espaçamento externo lateral chamado de margin, que é o espaçamento externo, ou para a direita ou para a esquerda.
 
 Se eu quiser colocar uma margem para todos os lados igual, coloco só o nome dela, só a declaração margin. E na hora que renderizo, ele vai criar uma moldura em volta do meu elemento.
+
